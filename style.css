@@ -1,4 +1,6 @@
-body { 
+@import url('https://fonts.googleapis.com/css2?family=Ruge+Boogie&display=swap');
+body {   
+    font-family: 'Ruge Boogie', cursive;
     text-align: center;
     background-color: rgb(0, 255, 242);
 }
